@@ -1,5 +1,6 @@
 # ng-window
- 
+ ![](http://g.recordit.co/FXstJzoYLr.gif)
+
 first of all : don't forget to copy fonts and css files to your web site assets folder , and import  windowStyle.css to your index.html 
 
 
