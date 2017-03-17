@@ -9,9 +9,8 @@ import {Observable} from 'rxjs/Rx'
 
 import {WindowInstance} from "./WindowInstance";
 import {Subscription} from "rxjs/Subscription";
-  import {MyApp} from "../../../app.component";
-import {global, CustomPosition} from "./utils";
-
+ import {global, CustomPosition} from "./utils";
+ 
 
 
 

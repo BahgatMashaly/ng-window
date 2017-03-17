@@ -15,7 +15,6 @@ import {WindowConfig} from "./WindowConfig";
 import {WindowInstance} from "./WindowInstance";
 import {WindowBackdrop} from "./ModalBackdrop";
 import {BootstrapWindowContainer} from "./BootstrapWindowContainer";
-import {SV} from "../../others_servicesAndStatic/SV";
 
 
 @Injectable()

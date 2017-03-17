@@ -1,6 +1,5 @@
 import {WindowInstance} from "./WindowInstance";
- import {IONIC_DIRECTIVES} from "ionic-angular";
-import {Component} from "@angular/core";
+ import {Component} from "@angular/core";
 import {global} from "./utils";
 
 /**
