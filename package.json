@@ -1,0 +1,26 @@
+{
+  "name": "ng-window",
+  "version": "1.0.0",
+  "description": "angular2 popup window(s) with full control in simple way .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bahgat Mashaly <bahgat@mashaly.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BahgatMashaly/ng-window.git"
+  },
+  "keywords": [
+    "angular",
+    "window",
+    "angular2",
+    "modal",
+    "popup"
+  ],
+  "bugs": {
+    "url": "https://github.com/BahgatMashaly/ng-window/issues"
+  },
+  "homepage": "https://github.com/BahgatMashaly/ng-window#readme"
+}
