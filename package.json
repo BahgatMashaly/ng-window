@@ -1,6 +1,6 @@
 {
   "name": "ng-window",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "angular2 popup window(s) with full control in simple way .",
   "main": "index.js",
   "scripts": {

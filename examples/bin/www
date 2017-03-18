@@ -1,0 +1,44 @@
+
+var debug = require('debug')('ExpressApp9');
+
+ console.log("wwwww");
+var http_or_https = require('http')
+
+
+
+
+var app = require('../app')
+
+
+
+
+
+app.set('port', process.env.PORT || 3000);
+ 
+
+
+    var server= http_or_https.createServer(app);
+
+
+
+
+
+if (app.get('env') === 'production') {
+
+    
+  server.listen(app.get('port'),'0.0.0.0', function () {
+    console.log('production Express server listening on port ' + app.get('port'));
+ 
+  });
+
+
+}
+else {
+
+  server.listen(app.get('port'),'0.0.0.0', function () {
+
+    console.log('debug Express server listening on port ' + app.get('port'));
+  });
+
+
+}

@@ -1,0 +1,49 @@
+{
+  "name": "ExpressApp9",
+  "version": "0.0.0",
+  "private": true,
+  "main": "www/init.html",
+  "window": {
+    "title": "Hero Baby",
+    "toolbar": false,
+    "frame": true,
+    "height": 5000,
+    "width": 5000,
+    "min_height": 600,
+    "min_width": 800,
+    "position": "center",
+    "icon": "www/img/heroBabyIcon.png"
+  },
+  "description": "ExpressApp9",
+  "author": {
+    "name": "Bahgat",
+    "email": ""
+  },
+  "dependencies": {
+    "@angular/common": "2.2.1",
+    "@angular/compiler": "2.2.1",
+    "@angular/compiler-cli": "2.2.1",
+    "@angular/core": "2.2.1",
+    "@angular/forms": "2.2.1",
+    "@angular/http": "2.2.1",
+    "@angular/platform-browser": "2.2.1",
+    "@angular/platform-browser-dynamic": "2.2.1",
+    "express": "~4.13.1",
+    "file-loader": "^0.10.1",
+    "ng-window": "^1.0.2",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "5.0.1",
+    "zone.js": "0.6.26"
+  },
+  "devDependencies": {
+    "angular2-router-loader": "^0.3.5",
+    "angular2-template-loader": "^0.6.2",
+    "awesome-typescript-loader": "^3.1.2",
+    "html-loader": "^0.4.5",
+    "node-sass": "^4.5.0",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.3",
+    "typescript": "^2.0.2",
+    "webpack": "^2.1.0-beta.21"
+  }
+}

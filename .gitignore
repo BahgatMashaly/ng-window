@@ -1,1 +1,3 @@
 src/assets/ngPopupStyle2.scss
+examples/node_modules
+examples/webpack.config.js
