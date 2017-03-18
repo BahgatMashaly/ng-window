@@ -79,5 +79,14 @@ this.myInjector.openWindow( Form2,config,this.viewContainerRef)
 
 
 
+I'd like to give special thanks to
+
+shlomiassaf
+https://github.com/shlomiassaf/angular2-modal
+
+
+MarkoCen
+https://github.com/MarkoCen/ngPopup
+
 
 
