@@ -7,18 +7,18 @@ first of all : don't forget to copy fonts and css files to your web site assets 
 
 ng-window allow developer to open and full control multiple windows in single page applications in simple way, No Jquery, No Bootstrap.
 
-Avilable Configration
+Available Configuration
 
-- Maxmize window
+- Maximize window
 - Minimize window
 - Custom size,
-- Custom posation
-- the window is dragable 
+- Custom position
+- The window is draggable 
 - Block parent window or not
 - Center the window or not
-- Pass values to chield window 
-- Pass values from chield window to parent window
-- Listening to closing chield window in parent window
+- Pass values to child window 
+- Pass values from child window to parent window
+- Listening to closing child window in parent window
 - Listen to resize event with your custom listener
 - Open with maximum size or not
 - Enable and disable window resizing
@@ -79,6 +79,7 @@ this.myInjector.openWindow( Form2,config,this.viewContainerRef)
 
 
 
+
 I'd like to give special thanks to
 
 shlomiassaf
@@ -87,6 +88,3 @@ https://github.com/shlomiassaf/angular2-modal
 
 MarkoCen
 https://github.com/MarkoCen/ngPopup
-
-
-
