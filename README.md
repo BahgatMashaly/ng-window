@@ -5,7 +5,7 @@ first of all : don't forget to copy fonts and css files to your web site assets 
 
 
 
-angular-windows allow developer to open and full control multiple windows in single page applications in simple way No Jquery, No Bootstrap.
+angular-windows allow developer to open and full control multiple windows in single page applications in simple way, No Jquery, No Bootstrap.
 
 Avilable Configration
 
